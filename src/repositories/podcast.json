@@ -1,26 +1,110 @@
     [
         {
             "podcastName": "flow",
-            "episode": "CBUM - Flow #319",
-            "videoId": "pQSuQmUfS30",
-            "category": ["saúde", "esporte", "bodybuilder"]
+            "episode": "FAUSTO CARVALHO [JORGINHO, O MENZINHO] - Flow #470",
+            "videoId": "tH8dgFSjjhw",
+            "category": ["humor"]
         },
         {
             "podcastName": "flow",
-            "episode": "RUBENS BARRICHELLO - Flow #339",
-            "videoId": "4KDGTdiOV4I",
-            "category": ["esporte", "corrida"]
+            "episode": "COMO ESCOLHER CARNE COMO UM PROFISSIONAL [com Netão Bom Beef]",
+            "videoId": "0LwlBLRt7_I",
+            "category": ["carne", "alimento", "churrasco"]
         },
         {
             "podcastName": "flow",
-            "episode": "Felipão - Flow #486",
-            "videoId": "ef4fefEFS",
-            "category": ["programação", "educativo"]
+            "episode": "LUIZA HELENA TRAJANO - Flow #469",
+            "videoId": "dYmPkpw7d2s",
+            "category": ["empreendedorismo", "negócios"]
+         },
+        {
+            "podcastName": "flow",
+            "episode": "LULA X TRUMP: QUEM SAI PERDENDO? [com Ricardo Marcílio e José Kobori]",
+            "videoId": "C_cKa4cyRmI",
+            "category": ["política"]
         },
         {
-            "podcastName": "Irrfa",
-            "episode": "Fgsf - Flow #486",
-            "videoId": "efse453044sgsg",
-            "category": ["prog", "arroz"]
+            "podcastName": "flow",
+            "episode": "TIRE SUAS DÚVIDAS SOBRE CARROS com Ricardinho ACF",
+            "videoId": "UOq3qpAFA8I",
+            "category": ["mecanica"]
+        },
+        {
+            "podcastName": "flow",
+            "episode": "ANDRÉ HENNING - Flow #468",
+            "videoId": "ckO0tKTHTsI",
+            "category": ["jornalismo"]
+        },
+        {
+            "podcastName": "inteligência-ltda",
+            "episode": "A ERA DO CAOS: DANIEL LOPEZ - LIGANDO OS PONTOS - Inteligência Ltda.Podcast #1592",
+            "videoId": "16adhVOUNo8",
+            "category": ["política"]
+        },
+        {
+            "podcastName": "inteligência-ltda",
+            "episode": "DENISE FRAGA - Inteligência Ltda.Podcast #1591",
+            "videoId": "VDLhbvIco7c",
+            "category": ["atriz", "televisão"]
+        },
+        {
+            "podcastName": "inteligência-ltda",
+            "episode": "PROFESSOR HOC - Inteligência Ltda.Podcast #1590",
+            "videoId": "LRlQWLRHaoY",
+            "category": ["política"]
+        },
+        {
+            "podcastName": "inteligência-ltda",
+            "episode": "ELEFANTE SANDRO - RICHARD RASMUSSEN E BIOLOGO HENRIQUE - Inteligência Ltda.Podcast #1589",
+            "videoId": "PZ7-Q-89Wrk",
+            "category": ["ciência", "animais", "biologia"]
+        },
+        {
+            "podcastName": "inteligência-ltda",
+            "episode": "LULA X TRUMP: FELIPE MOURA BRASIL E DUDA TEIXEIRA - Inteligência Ltda.Podcast #1588",
+            "videoId": "DRaBxwAfcDs",
+            "category": ["política"]
+        },
+        {
+            "podcastName": "inteligência-ltda",
+            "episode": "RICARDO FELTRIN - Inteligência Ltda.Podcast #1587",
+            "videoId": "04Ce0yz2oS4",
+            "category": ["televisão", "tv"]
+        },
+        {
+            "podcastName": "flow-games",
+            "episode": "GTA 6 pode chegar a 7 BILHÕES em 2 MESES e o PREÇO dos PORTÁTEIS XBOX - #FGN #186",
+            "videoId": "jAcSec9Goro",
+            "category": ["gta 6", "xbox", "games", "xbox portátil", "filme", "zelda"]
+        },
+        {
+            "podcastName": "flow-games",
+            "episode": "GAMEPLAY DONKEY KONG BANANZA! - #flowgames",
+            "videoId": "co3jxLCZiGk",
+            "category": ["nintendo", "donkey kong", "donkey kong bananza", "gameplay", "nitendo switch 2"]
+        },
+        {
+            "podcastName": "flow-games",
+            "episode": "GTA 3 GAMEPLAY, mais do JOGO QUE MUDOU TUDO, rumo ao GTA 6! - #flowgames",
+            "videoId": "eCmw-4oQG4o",
+            "category": ["gta 3", "gameplay", "gta 6"]
+        },
+        {
+            "podcastName": "flow-games",
+            "episode": "EVENTO EA SPORTS FC 26, ANÚNCIO OFICIAL e IBRAHIMOVIĆ vem aí? - #FGN",
+            "videoId": "NRmHs0XZFos",
+            "category": ["futebol", "fc26", "cobertura", "ea"]
+        },
+        {
+            "podcastName": "flow-games",
+            "episode": "COBERTURA AMAZON PRIME DAY 2025 - #flowgames",
+            "videoId": "XfCh6ecGKFQ",
+            "category": ["amazon", "cobertura", "prime day"]
+        },
+        {
+            "podcastName": "flow-games",
+            "episode": "DEATH STRANDING 2 o MELHOR JOGO do ANO NO PS e o JOGO do VENOM - #FGN #185",
+            "videoId": "uayV_hHTrYc",
+            "category": ["death stranding 2", "goty", "venom", "playstation"]
         }
     ]
